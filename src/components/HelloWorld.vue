@@ -1,15 +1,14 @@
 <script setup lang="ts">
-
 </script>
 
 <template>
-  <h1 class="hello">Hello World!</h1>
+	<h1 class="hello">Hello World!</h1>
 </template>
 
 <style scoped>
 .hello {
-  text-align: center;
-  margin: 60px 0;
-  color: aquamarine;
+	text-align: center;
+	margin: 60px 0;
+	color: aquamarine;
 }
 </style>
